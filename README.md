@@ -3,6 +3,13 @@
 ## 📌 Descripción
 Este proyecto implementa un flujo de trabajo de **MLOps** donde se entrena un modelo de Machine Learning utilizando **Jupyter Notebook**, se registran los experimentos en **MLflow**, y se almacenan los resultados en **PostgreSQL**. Todo se despliega utilizando **Docker**.
 
+## 🔥 Arquitectura del Proyecto
+
+A continuación, se muestra la arquitectura del proyecto:
+
+![arquitectura_mlflow](https://github.com/user-attachments/assets/2b964b7c-8df3-4e46-ad79-d4c9fa5b2504)
+
+
 ## 📁 Estructura del Proyecto
 ```
 ├── docker-compose.yml  # Configuración de servicios Docker
