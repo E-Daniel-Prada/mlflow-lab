@@ -122,7 +122,3 @@ Este proyecto demuestra cómo implementar **MLOps** con un enfoque distribuido, 
 ✔ Entrenamiento y pruebas en **Jupyter Notebook**  
 ✔ Inferencia en tiempo real con **FastAPI**  
 
----
-
-¡Listo para presentar al profesor! 🚀  
-Si necesitas ajustes, dime qué agregar. 😃
